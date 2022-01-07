@@ -2,6 +2,6 @@
 
 ![Routes](Images/routes.png)
 
-![Isochrones](Images/isochrones.png)
+![Isochrones](Images/isochrone.png)
 
 # Open the Colab Notebook to get started
