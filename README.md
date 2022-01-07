@@ -4,4 +4,4 @@
 
 ![Isochrones](Images/isochrone.png)
 
-# Open the Colab Notebook to get started
+# Open the Colab Notebook *RailRat_v0.1.ipynb* to get started
